@@ -62,7 +62,7 @@ function App() {
       </nav>
       <div className='flex flex-col md:flex-row gap-6'>
         {resources.map((resource) => (
-          <Drawer key={resource.id} handleOnly>
+          <Drawer key={resource.id} handleOnly disablePreventScroll>
             <DrawerTrigger asChild>
               <Card className='hover:bg-gray-100 hover:cursor-pointer transition-colors'>
                 <CardContent>
