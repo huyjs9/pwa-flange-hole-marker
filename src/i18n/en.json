@@ -1,0 +1,31 @@
+{
+  "title": "Flange Hole Marker",
+  "equispacedHoles": "Equispaced Holes",
+  "holesAtAnyAngle": "Holes at Any Angle",
+  "equivalentNoOfHoles": "Equivalent No Of Holes",
+  "pcd": "Flange Hole Pitch Center Diameter (PCD)",
+  "n": "No. of Holes (N)",
+  "angle": "Hole Angle in Degrees (θ)",
+  "holeDistance": "Hole Distance (C)",
+  "equispacedAngle": "Equispaced Angle (θ)",
+  "circleDiameter": "Circle Diameter (D)",
+  "holeDiameter": "Hole Diameter (d)",
+  "fractionToDecimalConversionChart": "Fraction to Decimal Conversion Chart",
+  "unit": {
+    "title": "Unit",
+    "mm": "mm",
+    "inch": "inch",
+    "hole": "hole",
+    "degree": "degree"
+  },
+  "inchWarning": {
+    "title": "Head up!",
+    "text": "Please refer to Decimal Fraction Chart to know fractional inches for values after decimal places.",
+    "link": "Click to View Decimal Fraction Chart"
+  },
+  "required": "This field is required",
+  "result": "Result",
+  "submit": "Submit",
+  "clear": "Clear",
+  "empty": "No results"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Tính lỗ mặt bích",
+  "equispacedHoles": "Lên chia đều",
+  "holesAtAnyAngle": "Lên ở bất kỳ góc nào",
+  "equivalentNoOfHoles": "Số lên tương đương",
+  "pcd": "Đường kính lỗ mặt bích (PCD)",
+  "n": "Số lỗ (N)",
+  "angle": "Góc mặt bích (θ)",
+  "holeDistance": "Khoảng cách lỗ (C)",
+  "equispacedAngle": "Góc cách đều nhau (θ)",
+  "circleDiameter": "Đường kính vòng tròn (D)",
+  "holeDiameter": "Đường kính lỗ (d)",
+  "fractionToDecimalConversionChart": "Biểu đồ chuyển đổi phân số sang số thập phân",
+  "unit": {
+    "title": "Đơn vị",
+    "mm": "mm",
+    "inch": "inch",
+    "hole": "lỗ",
+    "degree": "độ"
+  },
+  "inchWarning": {
+    "title": "Lưu ý",
+    "text": "Vui lòng tham khảo Biểu đồ Phân số Thập phân để biết phân số theo đơn vị inch cho các giá trị sau chữ số thập phân.",
+    "link": "Bấm vào để xem Biểu đồ Phân số Thập phân"
+  },
+  "required": "Không được bỏ trống",
+  "result": "Kết quả",
+  "submit": "Tính toán",
+  "clear": "Xóa",
+  "empty": "Không có kết quả"
+}
