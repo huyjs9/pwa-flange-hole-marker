@@ -66,7 +66,7 @@ function App() {
             <DrawerTrigger asChild>
               <Card className='hover:bg-gray-100 hover:cursor-pointer transition-colors'>
                 <CardContent>
-                  <div className='flex justify-center mt-6 rounded-lg border'>
+                  <div className='flex justify-center mt-6 rounded-lg border min-h-[191px]'>
                     <img
                       className='rounded-lg w-[300px]'
                       src={resource.image}
@@ -92,7 +92,7 @@ function App() {
               <div className='mx-auto w-full overflow-auto'>
                 <DrawerHeader className='pt-0'>
                   <DrawerDescription>
-                    <div className='flex justify-center rounded-lg border'>
+                    <div className='flex justify-center rounded-lg border min-h-[212px]'>
                       <img
                         className='rounded-lg w-[300px]'
                         src={resource.image}

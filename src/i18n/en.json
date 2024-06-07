@@ -20,8 +20,8 @@
   },
   "inchWarning": {
     "title": "Head up!",
-    "text": "Please refer to Decimal Fraction Chart to know fractional inches for values after decimal places.",
-    "link": "Click to View Decimal Fraction Chart"
+    "text": "Please refer to Fraction to Decimal Conversion Chart to know fractional inches for values after decimal places.",
+    "link": "Click to view Fraction to Decimal Conversion Chart"
   },
   "required": "This field is required",
   "result": "Result",

@@ -25,7 +25,7 @@ export default function InchWarning() {
           <Button
             type='button'
             variant='link'
-            className='p-0'
+            className='p-0 whitespace-normal text-left'
             onClick={() => setOpen(true)}
           >
             {t('inchWarning.link')}
@@ -37,7 +37,13 @@ export default function InchWarning() {
           <DialogHeader>
             <DialogTitle>{t('fractionToDecimalConversionChart')}</DialogTitle>
           </DialogHeader>
-          <img src={FractionToDecimalConversionChart} alt='fraction chart' />
+          <div className='w-full min-h-[475px]'>
+            <img
+              src={FractionToDecimalConversionChart}
+              alt='fraction chart'
+              loading='lazy'
+            />
+          </div>
         </DialogContent>
       </Dialog>
     </>
