@@ -11,6 +11,9 @@ const __dirname = dirname(__filename);
 const manifestPWA: Partial<VitePWAOptions> = {
   registerType: 'prompt',
   includeAssets: ['favicon.ico', 'apple-touch-icon.png', 'masked-icon.svg'],
+  workbox: {
+    globPatterns: ['**/*'],
+  },
   manifest: {
     name: 'Flange Hole Marker',
     short_name: 'Flange Hole Marker',
